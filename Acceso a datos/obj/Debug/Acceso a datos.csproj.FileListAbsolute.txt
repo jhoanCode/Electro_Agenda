@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Acceso a datos\bin\Debug\Acceso a datos.dll
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Acceso a datos\bin\Debug\Acceso a datos.pdb
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Acceso a datos\obj\Debug\Acceso a datos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Acceso a datos\obj\Debug\Acceso a datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Acceso a datos\obj\Debug\Acceso a datos.dll
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Acceso a datos\obj\Debug\Acceso a datos.pdb
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Acceso a datos\bin\Debug\Acceso a datos.dll
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Acceso a datos\bin\Debug\Acceso a datos.pdb
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Acceso a datos\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Acceso a datos\bin\Debug\Guna.UI2.dll
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Acceso a datos\obj\Debug\Acceso a datos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Acceso a datos\obj\Debug\Acceso a datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Acceso a datos\obj\Debug\Acceso a datos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Acceso a datos\obj\Debug\Acceso a datos.dll
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Acceso a datos\obj\Debug\Acceso a datos.pdb

@@ -1,0 +1,22 @@
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Negocio\bin\Debug\Acceso a datos.dll
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Negocio\bin\Debug\Acceso a datos.pdb
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\parcial\Práctica de acceso a Datos\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\bin\Debug\Acceso a datos.dll
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\bin\Debug\Guna.UI2.dll
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\bin\Debug\Acceso a datos.pdb
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\obj\Debug\Negocio.Vista.resources
+C:\Users\Usuario\Desktop\proyecto final de programacion\proyecto final\Negocio\obj\Debug\Negocio.csproj.GenerateResource.cache
